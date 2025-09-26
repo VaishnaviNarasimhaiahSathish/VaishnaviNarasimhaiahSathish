@@ -1,23 +1,8 @@
-## Hi, I'm Vaishnavi Narasimhaiah Sathish
-MSc Computer Science student at Universität Passau (Germany)  
+# 👋 Hi, I’m Vaishnavi Narasimhaiah Sathish  
+
+🎓 MSc Computer Science student at Universität Passau (Germany)  
 💡 Passionate about **Machine Learning, Deep Learning, and Generative AI**  
 🚀 Skilled in **computer vision, anomaly detection, NLP, and data visualization**  
-
-
-## ⚡ Fun Facts  
-
-- 🎨 Love **sketching & reading** in my free time.  
-- 🌍 Fluent in **English, Hindi, Kannada**, and learning **German (B1 in progress)**.  
-- 🤝 Enjoy collaborating in teams, always open to learning & exploring new technologies.  
-
----
-⭐️ *Open to AI/ML internships, working student roles, and research collaborations in 2025.*  
-
-## 📊 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviNarasimhaiahSathish&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VaishnaviNarasimhaiahSathish&theme=tokyonight&hide_border=true)  
 
 ## 🛠 Tech Stack  
 
@@ -31,14 +16,40 @@ MSc Computer Science student at Universität Passau (Germany)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+
+---
+## 🌟 Professional Experience  
+
+**Machine Learning Intern @ Gyaan Vivarttana Technologies (Sep 2022 – Feb 2023)**  
+- Built a **recommendation system** (cosine similarity) with **85% accuracy**, boosting test-user engagement.  
+- Reduced deployment cycle by **30%** through reproducible ML pipelines.  
+- Delivered ML PoCs in a **5-member Agile team** using Git & Jira.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaishnaviNarasimhaiahSathish&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviNarasimhaiahSathish&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=VaishnaviNarasimhaiahSathish&theme=tokyonight&hide_border=true)  
+
+---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-narasimhaiah-sathish)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaishnaviNarasimhaiahSathish)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnaviherle@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-narasimhaiah-sathish)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaishnaviNarasimhaiahSathish)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnaviherle@gmail.com)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=VaishnaviNarasimhaiahSathish&color=blue)
+---
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ⚡ Fun Facts  
 
+- 🎨 Love **sketching & reading** in my free time.  
+- 🌍 Fluent in **English, Hindi, Kannada**, and learning **German (B1 in progress)**.  
+- 🤝 Enjoy collaborating in teams, always open to learning & exploring new technologies.  
+
+---
+
+⭐️ *Open to AI/ML internships, working student roles, and research collaborations in 2025.*  
