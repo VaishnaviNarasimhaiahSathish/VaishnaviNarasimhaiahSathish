@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Vaishnavi Narasimhaiah Sathish
+MSc Computer Science student at Universität Passau (Germany)  
+💡 Passionate about **Machine Learning, Deep Learning, and Generative AI**  
+🚀 Skilled in **computer vision, anomaly detection, NLP, and data visualization**  
 
-<!--
-**VaishnaviNarasimhaiahSathish/VaishnaviNarasimhaiahSathish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ⚡ Fun Facts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 Love **sketching & reading** in my free time.  
+- 🌍 Fluent in **English, Hindi, Kannada**, and learning **German (B1 in progress)**.  
+- 🤝 Enjoy collaborating in teams, always open to learning & exploring new technologies.  
+
+---
+⭐️ *Open to AI/ML internships, working student roles, and research collaborations in 2025.*  
+
+## 📊 GitHub Stats  
+
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaishnaviNarasimhaiahSathish&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviNarasimhaiahSathish&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=VaishnaviNarasimhaiahSathish&theme=tokyonight&hide_border=true)  
