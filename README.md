@@ -27,12 +27,11 @@
 - Delivered ML PoCs in a **5-member Agile team** using Git & Jira.  
 
 ---
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaishnaviNarasimhaiahSathish&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)  
 
-## 📊 GitHub Stats  
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=VaishnaviNarasimhaiahSathish&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)  
 
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaishnaviNarasimhaiahSathish&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviNarasimhaiahSathish&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=VaishnaviNarasimhaiahSathish&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviNarasimhaiahSathish&layout=compact&theme=tokyonight&hide_border=true)  
 
 ---
 
