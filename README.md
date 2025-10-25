@@ -22,9 +22,7 @@
 ## 🌟 Professional Experience  
 
 **Machine Learning Intern @ Gyaan Vivarttana Technologies (Sep 2022 – Feb 2023)**  
-- Built a **recommendation system** (cosine similarity) with **85% accuracy**, boosting test-user engagement.  
-- Reduced deployment cycle by **30%** through reproducible ML pipelines.  
-- Delivered ML PoCs in a **5-member Agile team** using Git & Jira.  
+ 
 
 ---
 ## 📊 GitHub Stats  
