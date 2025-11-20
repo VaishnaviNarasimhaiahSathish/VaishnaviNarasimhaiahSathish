@@ -49,4 +49,4 @@
 
 ---
 
-⭐️ *Open to AI/ML internships, working student roles, and research collaborations in 2025.*  
+⭐️ * Open to research, data science and ML/Computer Vision roles for 2025.*  
