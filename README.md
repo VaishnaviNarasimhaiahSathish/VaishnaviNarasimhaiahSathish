@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Vaishnavi Narasimhaiah Sathish  
 
 🎓 MSc Computer Science student at Universität Passau (Germany)  
-💡 Passionate about **Machine Learning, Deep Learning, and Generative AI**  
-🚀 Skilled in **computer vision, anomaly detection, NLP, and data visualization**  
+💡 Passionate about **Passionate about data science, 3D computer vision, and Deep learning**  
+🚀 Skilled in **computer vision, anomaly detection, NLP, and data visualization**   
+
 
 ## 🛠 Tech Stack  
 
