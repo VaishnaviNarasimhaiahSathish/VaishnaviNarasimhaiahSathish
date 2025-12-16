@@ -6,6 +6,39 @@ I’m a Master’s student in Computer Science with hands-on experience building
 
 I enjoy developing **clean, reproducible ML pipelines**, exploring challenging AI problems, and building systems that make a meaningful impact.
 
+## 🧠 Skills  
+
+<div style="display: flex; gap: 40px;">
+
+<div>
+
+- Machine Learning (ML)  
+- Deep Learning  
+- Computer Vision  
+- Medical Imaging (X-ray, MRI)  
+- Natural Language Processing (NLP)  
+- Data Preprocessing & Feature Engineering  
+- Model Training & Evaluation  
+- Experimentation & Analysis  
+
+</div>
+
+<div>
+
+- CNNs, UNet Architectures  
+- Transformers & BERT  
+- Multimodal Learning (RGB + Depth)  
+- Anomaly / Rare-Event Detection  
+- Federated Learning (basic understanding)  
+- Cloud Fundamentals (AWS, Azure)  
+- ML Pipelines & Reproducibility  
+- Documentation & Reporting  
+
+</div>
+
+</div>
+
+
 ## 🛠 Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
