@@ -12,7 +12,7 @@ I enjoy building clean, reproducible pipelines and working on problems where AI 
 
 > Medical X-ray classification for pneumonia detection
 
-Multimodal image fusion (RGB + depth) for improved detection
+> Multimodal image fusion (RGB + depth) for improved detection
 
 > SemEval 2025 benchmarking (TF-IDF + SVM, Logistic Regression, BERT)
 
