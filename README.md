@@ -38,7 +38,7 @@ I enjoy developing **clean, reproducible ML pipelines**, exploring challenging A
 
 </div>
 
-## 🚀 Languages & Tools I Use  
+## 👾 Languages & Tools I Use  
 
 <p align="left">
 
