@@ -1,34 +1,32 @@
-Hi, I'm Vaishnavi 👋
+# Hi, I'm Vaishnavi 👋  
 
-Machine Learning & Data Science | Computer Vision | AI | NLP Enthusiast
+**Machine Learning & Data Science | Computer Vision | AI & NLP Enthusiast**
 
-I am a Master's student in Computer Science with hands-on experience building machine learning and deep learning models for real-world applications. My work spans medical imaging, computer vision, multimodal fusion, anomaly detection, LLM-based benchmarking, and data science workflows.
+I’m a Master’s student in Computer Science with hands-on experience building machine learning and deep learning models for real-world applications. My work spans **medical imaging, computer vision, multimodal fusion, anomaly detection, LLM-based benchmarking, and data science workflows**.
 
-I enjoy building clean, reproducible pipelines and working on problems where AI can make a meaningful impact.
+I enjoy developing **clean, reproducible ML pipelines**, exploring challenging AI problems, and building systems that make a meaningful impact.
+
+---
 
 ## 🚀 What I'm Currently Working On
 
-> MRI segmentation (3D UNet) and clinical imaging workflows
+> **MRI Segmentation (3D UNet)** — volumetric imaging & model evaluation  
+> **Medical X-ray Classification** — pneumonia detection with CNNs  
+> **Multimodal Image Fusion** — RGB + depth fusion for better detection  
+> **SemEval 2025** — TF-IDF + SVM, Logistic Regression, BERT benchmarking  
+> **Dataset Preprocessing Tools** — improving preparation & evaluation pipelines  
+> **AWS/Azure Fundamentals** — learning cloud-based ML workflows  
 
-> Medical X-ray classification for pneumonia detection
+---
 
-> Multimodal image fusion (RGB + depth) for improved detection
+## 💡 What I Care About
 
-> SemEval 2025 benchmarking (TF-IDF + SVM, Logistic Regression, BERT)
+> Clean, reproducible ML workflows  
+> Data quality, dataset preparation & annotation  
+> Research-backed model improvements  
+> Clear communication & documentation  
 
-> Improving dataset preprocessing tools & evaluation pipelines
-
-> Learning AWS/Azure for scalable ML workflows
-
-## What I Care About
-
-> Clean, reproducible ML workflows
-
-> Data quality, dataset preparation & annotation
-
-> Research-backed model improvements
-
-> Communication and clear documentation
+---
 
 ## 🛠 Tech Stack  
 
@@ -42,7 +40,7 @@ I enjoy building clean, reproducible pipelines and working on problems where AI 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
 
@@ -58,9 +56,13 @@ I enjoy building clean, reproducible pipelines and working on problems where AI 
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-##  ⭐ My Stats
+---
+
+## ⭐ My Stats  
+
 ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviNarasimhaiahSathish&show_icons=true&theme=tokyonight)
 
+---
 
 ## 🌐 Connect with Me  
 
@@ -72,10 +74,10 @@ I enjoy building clean, reproducible pipelines and working on problems where AI 
 
 ## ⚡ Fun Facts  
 
-- 🎨 Love **sketching & reading** in my free time.  
-- 🌍 Fluent in **English, Hindi, Kannada**, and learning **German (B1 in progress)**.  
-- 🤝 Enjoy collaborating in teams, always open to learning & exploring new technologies.  
+- 🎨 I love sketching and reading in my free time  
+- 🌍 Fluent in *English, Hindi, Kannada* and learning **German (B1 in progress)**  
+- 🤝 Enjoy collaborating in teams and exploring new technologies  
 
 ---
 
-⭐️ * Open to research, data science and ML/Computer Vision roles for 2025.*  
+⭐️ *Open to research, data science, and ML/Computer Vision opportunities in 2025.*  
