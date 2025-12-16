@@ -6,22 +6,6 @@ I’m a Master’s student in Computer Science with hands-on experience building
 
 I enjoy developing **clean, reproducible ML pipelines**, exploring challenging AI problems, and building systems that make a meaningful impact.
 
----
-
-## 🚀 What I'm Currently Working On
-
-**MRI Segmentation (3D UNet)** : volumetric imaging & model evaluation
-
-**Multimodal Image Fusion** : RGB + depth fusion for better detection  
-
-**SemEval 2025** : TF-IDF + SVM, Logistic Regression, BERT benchmarking  
-
-**Dataset Preprocessing Tools** : improving preparation & evaluation pipelines  
-
-**AWS/Azure Fundamentals** : learning cloud-based ML workflows  
-
----
-
 ## 🛠 Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -42,23 +26,32 @@ I enjoy developing **clean, reproducible ML pipelines**, exploring challenging A
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
----
+
+
+## 🚀 What I'm Currently Working On
+
+**MRI Segmentation (3D UNet)** : volumetric imaging & model evaluation
+
+**Multimodal Image Fusion** : RGB + depth fusion for better detection  
+
+**SemEval 2025** : TF-IDF + SVM, Logistic Regression, BERT benchmarking  
+
+**Dataset Preprocessing Tools** : improving preparation & evaluation pipelines  
+
+**AWS/Azure Fundamentals** : learning cloud-based ML workflows  
 
 ## 💡 What I Care About
 
-> Clean, reproducible ML workflows  
-> Data quality, dataset preparation & annotation  
-> Research-backed model improvements  
-> Clear communication & documentation  
----
+- Clean, reproducible ML workflows  
+- Data quality, dataset preparation & annotation  
+- Research-backed model improvements  
+- Clear communication & documentation  
 
 ## ⭐ My Stats  
 
 ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviNarasimhaiahSathish&show_icons=true&theme=tokyonight)
 
----
 
 ## 🌐 Connect with Me  
 
@@ -66,14 +59,11 @@ I enjoy developing **clean, reproducible ML pipelines**, exploring challenging A
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaishnaviNarasimhaiahSathish)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnaviherle@gmail.com)  
 
----
 
 ## ⚡ Fun Facts  
 
 - 🎨 I love sketching and reading in my free time  
 - 🌍 Fluent in *English, Hindi, Kannada* and learning **German (B1 in progress)**  
 - 🤝 Enjoy collaborating in teams and exploring new technologies  
-
----
 
 ⭐️ *Open to research, data science, and ML/Computer Vision opportunities in 2025.*  
