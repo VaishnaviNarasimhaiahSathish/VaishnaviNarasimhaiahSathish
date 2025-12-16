@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-7cb8f7d8-3a5e-47cc-9ac0-16048c2f2932.gif" width="600" />
+</p>
+
+
+
+
 # Hi, I'm Vaishnavi 👋  
 
 **Machine Learning & Data Science | Computer Vision | AI & NLP Enthusiast**
@@ -91,9 +106,15 @@ I enjoy developing **clean, reproducible ML pipelines**, exploring challenging A
 - Research-backed model improvements  
 - Clear communication & documentation  
 
-## ⭐ My Stats  
+## 📈 GitHub Activity  
 
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviNarasimhaiahSathish&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VaishnaviNarasimhaiahSathish&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviNarasimhaiahSathish&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ## 🌐 Connect with Me  
