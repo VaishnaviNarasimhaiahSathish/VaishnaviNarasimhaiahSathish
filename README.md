@@ -139,16 +139,16 @@ Built a **Retrieval-Augmented Generation (RAG) pipeline** for semantic document 
 
 I've also worked on:
 
-- 🏭 **Industrial Component Instance Segmentation** — Mask R-CNN, ~0.62 mask IoU
-- 🧠 **3D MRI Segmentation** — volumetric segmentation using 3D U-Net
-- 🩻 **PneumoScan** — chest X-ray classification with transfer learning
-- 📈 **Demand Forecasting** — Random Forest, XGBoost and LSTM on time-series data
-- 📊 **Forecast Drift Detection** — statistical monitoring of changing forecast performance
-- 🔧 **Predictive Maintenance** — sensor-data analysis and anomaly detection
-- 📝 **Document Classification** — OCR, TF-IDF, classical ML and Transformers
-- 🍽️ **SemEval Food Hazard Detection** — SVM, Logistic Regression and BERT benchmarking
-- 🤖 **LangGraph Time-Series Agent** — tool-based LLM workflows for time-series analysis
-- 🚁 **AirNetBus** — decentralized multi-agent coordination and dynamic routing for eVTOL fleets
+- 🏭 **Industrial Component Instance Segmentation** : Mask R-CNN, ~0.62 mask IoU
+- 🧠 **3D MRI Segmentation** : volumetric segmentation using 3D U-Net
+- 🩻 **PneumoScan** : chest X-ray classification with transfer learning
+- 📈 **Demand Forecasting** : Random Forest, XGBoost and LSTM on time-series data
+- 📊 **Forecast Drift Detection** : statistical monitoring of changing forecast performance
+- 🔧 **Predictive Maintenance** : sensor-data analysis and anomaly detection
+- 📝 **Document Classification** : OCR, TF-IDF, classical ML and Transformers
+- 🍽️ **SemEval Food Hazard Detection** : SVM, Logistic Regression and BERT benchmarking
+- 🤖 **LangGraph Time-Series Agent** : tool-based LLM workflows for time-series analysis
+- 🚁 **AirNetBus** : decentralized multi-agent coordination and dynamic routing for eVTOL fleets
 
 ---
 
@@ -160,23 +160,6 @@ I've also worked on:
 - Systematic experimentation and quantitative evaluation
 - Clean and reproducible ML workflows
 - Turning research ideas into practical systems
-
----
-
-## 📈 GitHub Activity
-
-Explore my repositories below to see my latest projects, experiments, and contributions.
-
-My contribution activity is also available directly on my GitHub profile.
-
----
-
-## 🌐 Connect with Me
-
-- 💼 **LinkedIn:** 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-narasimhaiah-sathish)  
-- 📧 **Email:** [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnaviherle@gmail.com)  
-- 🎓 **M.Sc. Computer Science — University of Passau, Germany**
 
 ---
 
