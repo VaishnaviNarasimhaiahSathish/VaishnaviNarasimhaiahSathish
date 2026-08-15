@@ -10,7 +10,7 @@ I'm a Master's student in **Computer Science at the University of Passau, German
 
 My work spans **camera and LiDAR perception, point-cloud processing, object detection and tracking, RGB-D sensor fusion, stereo vision, deep learning, time-series ML, and LLM-based systems**.
 
-I enjoy building practical ML systems end-to-end — from **data preparation and experimentation to evaluation, failure analysis, and deployment**.
+I enjoy building practical ML systems end-to-end. From **data preparation and experimentation to evaluation, failure analysis, and deployment**.
 
 ---
 
